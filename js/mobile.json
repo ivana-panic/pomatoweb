@@ -1,0 +1,232 @@
+[
+  {
+    "image": {
+      "src": "images/1.png",
+      "alt": "prva image"
+    },
+    "price": "200e",
+    "mark": "Samsung",
+    "model": "J5",
+    "sale": "Sale 10%"
+  },
+  {
+    "image": {
+      "src": "images/2.png",
+      "alt": "druga image"
+    },
+    "price": "400e",
+    "mark": "Samsung",
+    "model": "J3",
+    "sale": "Sale 10%"
+  },
+  {
+    "image": {
+      "src": "images/3.png",
+      "alt": "treca image"
+    },
+    "price": "150e",
+    "mark": "Samsung",
+    "model": "G712",
+    "sale": "Sale 10%"
+  },
+  {
+    "image": {
+      "src": "images/4.png",
+      "alt": "cetvrta image"
+    },
+    "price": "900e",
+    "mark": "Iphone",
+    "model": "11c",
+    "sale": "Sale 10%"
+  },
+  {
+    "image": {
+      "src": "images/5.png",
+      "alt": "peta image"
+    },
+    "price": "1100e",
+    "mark": "Iphone",
+    "model": "12+",
+    "sale": "Sale 10%"
+  },
+  {
+    "image": {
+      "src": "images/6.png",
+      "alt": "sesta image"
+    },
+    "price": "700e",
+    "mark": "Iphone",
+    "model": "Se+",
+    "sale": "Sale 10%"
+  },
+  {
+    "image": {
+      "src": "images/1.png",
+      "alt": "Crni telefon"
+    },
+    "price": "400e",
+    "mark": "Samsung",
+    "model": "J3",
+    "sale": "Sale 10%"
+  },
+  {
+    "image": {
+      "src": "images/2.png",
+      "alt": "beli image"
+    },
+    "price": "630e",
+    "mark": "Huawei",
+    "model": "P12",
+    "sale": "Sale 10%"
+  },
+  {
+    "image": {
+      "src": "images/3.png",
+      "alt": "druga image"
+    },
+    "price": "500e",
+    "mark": "Huawei",
+    "model": "l24",
+    "sale": "Sale 10%"
+  },
+  {
+    "image": {
+      "src": "images/4.png",
+      "alt": "druga image"
+    },
+    "price": "860e",
+    "mark": "Huawei",
+    "model": "Pro 16C",
+    "sale": "Sale 10%"
+  },
+  {
+    "image": {
+      "src": "images/5.png",
+      "alt": "druga image"
+    },
+    "price": "420e",
+    "mark": "Nokia",
+    "model": "3030",
+    "sale": "Sale 10%"
+  },
+  {
+    "image": {
+      "src": "images/6.png",
+      "alt": "druga image"
+    },
+    "price": "690e",
+    "mark": "Nokia",
+    "model": "C8",
+    "sale": "Sale 10%"
+  },
+  {
+    "image": {
+      "src": "images/1.png",
+      "alt": "druga image"
+    },
+    "price": "280e",
+    "mark": "Nokia",
+    "model": "907786",
+    "sale": "Sale 10%"
+  },
+  {
+    "image": {
+      "src": "images/2.png",
+      "alt": "druga image"
+    },
+    "price": "550e",
+    "mark": "Xiaomi",
+    "model": "Note 8 pro",
+    "sale": "Sale 10%"
+  },
+  {
+    "image": {
+      "src": "images/3.png",
+      "alt": "druga image"
+    },
+    "price": "780e",
+    "mark": "Xiaomi",
+    "model": "Note 7 D",
+    "sale": "Sale 10%"
+  },
+  {
+    "image": {
+      "src": "images/4.png",
+      "alt": "druga image"
+    },
+    "price": "210e",
+    "mark": "Xiaomi",
+    "model": "Redmi 5",
+    "sale": "Sale 10%"
+  },
+  {
+    "image": {
+      "src": "images/3.png",
+      "alt": "druga image"
+    },
+    "price": "780e",
+    "mark": "",
+    "model": "Note 7 D",
+    "sale": "Sale 10%"
+  },
+  {
+    "image": {
+      "src": "images/4.png",
+      "alt": "druga image"
+    },
+    "price": "190e",
+    "mark": "Motorola Moto",
+    "model": "Ge 112S",
+    "sale": "Sale 10%"
+  },
+  {
+    "image": {
+      "src": "images/5.png",
+      "alt": "druga image"
+    },
+    "price": "380e",
+    "mark": "Motorola Moto",
+    "model": "P 34 D",
+    "sale": "Sale 10%"
+  },
+  {
+    "image": {
+      "src": "images/6.png",
+      "alt": "druga image"
+    },
+    "price": "780e",
+    "mark": "Motorola Moto",
+    "model": "Note 187D",
+    "sale": "Sale 10%"
+  },
+  {
+    "image": {
+      "src": "images/1.png",
+      "alt": "druga image"
+    },
+    "price": "220e",
+    "mark": "Alcatel",
+    "model": "Mers13+",
+    "sale": "Sale 10%"
+  },
+  {
+    "image": {
+      "src": "images/2.png",
+      "alt": "druga image"
+    },
+    "price": "780e",
+    "mark": "Alcatel",
+    "model": "Bels90",
+    "sale": "Sale 10%"
+  },
+  {
+    "image": {
+      "src": "images/3.png",
+      "alt": "druga image"
+    },
+    "price": "730e",
+    "mark": "Alcatel",
+    "model": "Bo980",
+    "sale": "Sale 10%"
+  }
+]
